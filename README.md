@@ -1,5 +1,4 @@
 # FrontEnd-Internship-TaskA
-# Frontend Internship Task A
 
 ## Live Demo
 
